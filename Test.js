@@ -1,0 +1,10 @@
+var inquiry = "do you like Dolphins?"; 
+alert( inquiry);
+var inquiryy = "please! click ok to visit website built by SammyK";"; 
+alert( inquiryy);
+var inquiryyy = "are you sure you want to open Dolphins website?";
+alert( inquiryyy);
+var inquiryy = "please! click ok to visit website built by SammyK";"; 
+alert( inquiryy);
+var inquiryyy = "are you sure you want to open Dolphins website?";
+alert( inquiryyy);

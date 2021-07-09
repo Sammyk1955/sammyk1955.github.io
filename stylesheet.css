@@ -1,0 +1,67 @@
+ 
+Body
+{
+background-color:#9c9f84;
+margin: 0px;
+font-family:Verdana,georgia,selif;
+font-size:14px;
+}
+
+.header
+{
+background-color:#5c755e;
+text-align:center;
+margin:10px;
+height: 90px;
+border-radius:;5px
+}
+
+#navbar
+ {
+background-color:#5c755e;
+height: 35px;
+border-radius:;5px
+margin:10px;
+text-align:center;
+}
+
+.main
+ {
+background-color:#e5e4d7;
+margin:2px;
+border-radius:5px;
+
+font-size:;110%;
+
+}
+#para2 {
+background-color:#e5e4d7;
+margin:5px;
+
+
+}
+img {
+
+
+display:block;
+
+padding:10px;
+max-width:100px;
+max-height:100%;
+margin-right:auto;
+margi-left:auto;
+
+}
+.footer
+{
+background-color:#5c755e;
+text-align:center;
+margin:5px;
+display:white;
+border-size:0.5px;
+}
+ul 
+{
+text-decoration:none;
+}
+
